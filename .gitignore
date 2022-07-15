@@ -49,3 +49,15 @@ Exercícios/ListaEncadeada/nbproject/private/private.properties
 Exercícios/ListaEncadeada/nbproject/private/private.xml
 Exercícios/ListaEncadeada/nbproject/project.properties
 Exercícios/ListaEncadeada/nbproject/project.xml
+*.xml
+Exercícios/listaLigada/nbproject/private/private.properties
+Exercícios/listaLigada/build/classes/.netbeans_automatic_build
+Exercícios/listaLigada/build/classes/.netbeans_update_resources
+Exercícios/listaLigada/build/classes/listaligada/Elemento.class
+Exercícios/listaLigada/build/classes/listaligada/InterfaceLista.class
+Exercícios/listaLigada/build/classes/listaligada/Iterador.class
+Exercícios/listaLigada/build/classes/listaligada/ListaEncadeada.class
+Exercícios/listaLigada/build/classes/listaligada/ListaLigada.class
+Exercícios/listaLigada/manifest.mf
+Exercícios/listaLigada/nbproject/genfiles.properties
+Exercícios/listaLigada/nbproject/project.properties
