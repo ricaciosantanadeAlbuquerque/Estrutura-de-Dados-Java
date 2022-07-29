@@ -14,7 +14,7 @@ public class BuscaBinaria_vs_buscaLinear {
          //System.out.println(" "+num1[i]+" ");
      }
     // busca linear ======================================
-        System.out.println("");
+        System.out.println("A  ULTIMA  POSICAO E 999999");
         System.out.println("====Busca Linear=====");
         System.out.println(" Digite o numero que vc busca ");
         int numero = in.nextInt();
